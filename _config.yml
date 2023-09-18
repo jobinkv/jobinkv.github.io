@@ -87,22 +87,22 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hP79D9EAAAAJ&hl=en"
-  email            : "mailto:jobin.kv@research.iiit.ac.in"
+  email            : "jobin.kv@research.iiit.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
+  uri              : "https://jobinkv.github.io/"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/jobinkv"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "jobin7kv"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
