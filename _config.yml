@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "K. V. Jobin"
 title_separator          : "-"
 name                     : &name "K. V. Jobin"
-description              : &description "personal description"
+description              : &description "ML/CV Researcher"
 url                      : https://jobinkv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jobinkv/jobinkv.github.io"
@@ -85,10 +85,10 @@ author:
   bio              : "ML/CV Researcher"
   location         : "Hyderabad, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hP79D9EAAAAJ&hl=en"
   email            : "jobin.kv@research.iiit.ac.in"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "Jobin-Kv" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://jobinkv.github.io/"
   bitbucket        : 
   codepen          :
