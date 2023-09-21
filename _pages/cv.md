@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<object data="https://jobinkv.github.io/files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://jobinkv.github.io/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jobinkv.github.io/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 {% include base_path %}
 
 Education
