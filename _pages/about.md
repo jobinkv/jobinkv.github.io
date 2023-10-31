@@ -8,10 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated Ph.D. student pursuing my doctoral studies at [IIIT Hyderabad](https://iiit.ac.in), where my research primarily revolves around developing computer vision algorithms for document layout understanding. My work in this field involves designing innovative solutions and applications that leverage these algorithms to enhance various document analysis and processing aspects. Prior to my doctoral journey, I successfully obtained my master's degree from the esteemed [College of Engineering Trivandrum](https://cet.ac.in), where my focus was on the intriguing domain of signal processing. My academic background and research experiences have equipped me with the skills and knowledge necessary to contribute meaningfully to the ever-evolving field of computer vision and document analysis.
+I am a Ph.D. student at [IIIT Hyderabad](https://iiit.ac.in) where my research primarily revolves around developing computer vision algorithms for document layout understanding. My work in this field involves designing innovative solutions and applications that leverage these algorithms to enhance various document analysis and processing aspects. 
+Prior to my doctoral journey, I successfully obtained my master's degree from the esteemed [College of Engineering Trivandrum](https://cet.ac.in), where my focus was on the intriguing domain of signal processing. 
 
-Updates
-======
+### <span style="color:red">News /Updates </span>
+
+- [October 2023] -   our paper titled "Semantic Labels-Aware Transformer Model for
+Searching over a Large Collection of Lecture-Slides" accepted in WACV 2024.
+
+### Academic Services ###
+- Reviewer for Conferences - WACV
+
+### Achievements / Recognitions ###
+- [2019] - [IAPR Best Paper Award](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/jobin_kv_research_iiit_ac_in/EecnzqYGVKJGtWrBc8p03YQBOhupgjk0PpHsbKnB_U4UnQ?e=5MPubZ);  Classroom Slide Narration System on  IAPR International Conference on Computer Vision & Image Processing (CVIP-2021)
+- [2015] - Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
+- [2015] - Visveshvarayya PhD fellowship
+- [2011] - Gate felloship
 
 
 <!-- Getting started
