@@ -20,7 +20,7 @@ Searching over a Large Collection of Lecture-Slides" accepted in WACV 2024.
 - Reviewer for Conferences - WACV
 
 ### Achievements / Recognitions ###
-- [2019] - [IAPR Best Paper Award](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/jobin_kv_research_iiit_ac_in/EecnzqYGVKJGtWrBc8p03YQBOhupgjk0PpHsbKnB_U4UnQ?e=5MPubZ);  Classroom Slide Narration System on  IAPR International Conference on Computer Vision & Image Processing (CVIP-2021)
+- [2021] - [IAPR Best Paper Award](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/jobin_kv_research_iiit_ac_in/EecnzqYGVKJGtWrBc8p03YQBOhupgjk0PpHsbKnB_U4UnQ?e=5MPubZ);  Classroom Slide Narration System on  IAPR International Conference on Computer Vision & Image Processing (CVIP-2021)
 - [2015] - Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
 - [2015] - Visveshvarayya PhD fellowship
 - [2011] - Gate felloship
