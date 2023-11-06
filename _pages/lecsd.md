@@ -8,7 +8,7 @@ tags:
   - Slide images
 ---
 
-This repository provides the official blog of the paper:
+<!-- This repository provides the official blog of the paper: -->
 > **Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides** <br>
 > K. V. Jobin, Anand Mishra, and C. V. Jawahar<br>
 > In WACV 2024<br>
