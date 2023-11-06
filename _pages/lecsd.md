@@ -2,7 +2,7 @@
 permalink: /lecsd/
 title: "Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides"
 excerpt: "WACV 2024"
-author_profile: true
+# author_profile: true
 # redirect_from: 
 #   - /about/
 #   - /about.html
