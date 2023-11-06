@@ -1,14 +1,22 @@
 ---
+title: 'Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides'
+date: 2023-01-01
 permalink: /lecsd/
-title: "Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides"
-excerpt: "WACV 2024"
-# author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
+tags:
+  - WACV
+  - retrieval
+  - Slide images
 ---
 
-I am a Ph.D. student at [IIIT Hyderabad](https://iiit.ac.in) where my research primarily revolves around developing computer vision algorithms for document layout understanding. My work in this field involves designing innovative solutions and applications that leverage these algorithms to enhance various document analysis and processing aspects. 
-Prior to my doctoral journey, I successfully obtained my master's degree from the esteemed [College of Engineering Trivandrum](https://cet.ac.in), where my focus was on the intriguing domain of signal processing. 
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
 
 ### <span style="color:red">News /Updates </span>
