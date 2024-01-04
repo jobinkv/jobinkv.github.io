@@ -12,7 +12,7 @@ I am a Ph.D. student at [IIIT Hyderabad](https://iiit.ac.in) where my research p
 Prior to my doctoral journey, I successfully obtained my master's degree from the esteemed [College of Engineering Trivandrum](https://cet.ac.in), where my focus was on the intriguing domain of signal processing. 
 
 ### <span style="color:red">News /Updates </span>
-
+- [January 2023] -   Our paper selected as paper award finalist in WACV 2024[link](https://twitter.com/wacv_official/status/1742715868709314587)
 - [October 2023] -   our paper titled "Semantic Labels-Aware Transformer Model for
 Searching over a Large Collection of Lecture-Slides" accepted in WACV 2024.
 
