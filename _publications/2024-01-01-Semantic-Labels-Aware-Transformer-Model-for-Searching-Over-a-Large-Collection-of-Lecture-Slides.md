@@ -7,7 +7,7 @@ venue: ' Winter Conference on Applications of Computer Vision'
 citation: ' <b> KV Jobin</b>,  Anand Mishra,  CV Jawahar, &quot;Semantic Labels-Aware Transformer Model for Searching Over a Large Collection of Lecture-Slides.&quot; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024'
 ---
 
-# Project page
+# [Project page](/lecsd)
 > **[Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides](/lecsd)** <br>
 > K. V. Jobin, Anand Mishra, and C. V. Jawahar<br>
 > In WACV 2024<br>
