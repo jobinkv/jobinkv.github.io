@@ -15,6 +15,7 @@ tags:
 > In WACV 2024<br>
 
 |[LecSD](https://github.com/jobinkv/LecSD){: .btn}|[Pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Jobin_Semantic_Labels-Aware_Transformer_Model_for_Searching_Over_a_Large_Collection_WACV_2024_paper.pdf){: .btn}| [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf){: .btn}|
+
 |:------:|:------:|:------:|
 
 
