@@ -20,6 +20,13 @@ tags:
 
 ### [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf)
 
+
+Lorem ipsum dolor sit amet.
+
+{% include button.html url="http://www.google.com" %}
+
+[Click me](http://www.google.com){: .btn}
+
 ### Please cite
 @InProceedings{Jobin_2024_WACV,
     author    = {Jobin, K. V. and Mishra, Anand and Jawahar, C. V.},
