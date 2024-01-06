@@ -2,6 +2,7 @@
 title: 'Semantic Labels-Aware Transformer Model for Searching over a Large Collection of Lecture-Slides'
 date: 2024-01-01
 permalink: /lecsd/
+bibliography: references.bib
 tags:
   - WACV
   - retrieval
@@ -20,6 +21,16 @@ tags:
 ## [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf)
 
 ## Please cite
+
+@Manual{R-base,
+  title = {R: A Language and Environment for Statistical
+           Computing},
+  author = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  address = {Vienna, Austria},
+  year = {2019},
+  url = {https://www.R-project.org},
+}
 
 `
 @InProceedings{Jobin_2024_WACV,
