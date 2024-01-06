@@ -13,6 +13,25 @@ tags:
 > K. V. Jobin, Anand Mishra, and C. V. Jawahar<br>
 > In WACV 2024<br>
 
+## [Download LecSD dataset](https://github.com/jobinkv/LecSD)
+
+## [Pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Jobin_Semantic_Labels-Aware_Transformer_Model_for_Searching_Over_a_Large_Collection_WACV_2024_paper.pdf)
+
+## [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf)
+
+## Please cite
+
+`
+@InProceedings{Jobin_2024_WACV,
+    author    = {Jobin, K. V. and Mishra, Anand and Jawahar, C. V.},
+    title     = {Semantic Labels-Aware Transformer Model for Searching Over a Large Collection of Lecture-Slides},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {6016-6025}
+}
+`
+
 > **Abstract:** *Massive Open Online Courses(MOOCs) enable easy access to many educational materials, particularly lecture slides, on the web. Searching through them based on user queries becomes an essential problem due to the availability of such vast information.
 To address this, we present Lecture Slide Deck Search Engine (LecDeckSearch Engine) -- a search engine that supports natural language queries and hand-drawn sketches and performs searches on a large collection of slide images on computer science topics. 
 This search engine is trained using a novel semantic label-aware transformer model that extracts the semantic labels in the slide images and seamlessly encodes them with the visual cues from the slide images and textual cues from the natural language query. 
