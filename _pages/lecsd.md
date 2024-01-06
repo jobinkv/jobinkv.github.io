@@ -14,25 +14,13 @@ tags:
 > K. V. Jobin, Anand Mishra, and C. V. Jawahar<br>
 > In WACV 2024<br>
 
-## [Download LecSD dataset](https://github.com/jobinkv/LecSD)
+### [Download LecSD dataset](https://github.com/jobinkv/LecSD)
 
-## [Pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Jobin_Semantic_Labels-Aware_Transformer_Model_for_Searching_Over_a_Large_Collection_WACV_2024_paper.pdf)
+### [Pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Jobin_Semantic_Labels-Aware_Transformer_Model_for_Searching_Over_a_Large_Collection_WACV_2024_paper.pdf)
 
-## [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf)
+### [Supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Jobin_Semantic_Labels-Aware_Transformer_WACV_2024_supplemental.pdf)
 
-## Please cite
-
-@Manual{R-base,
-  title = {R: A Language and Environment for Statistical
-           Computing},
-  author = {{R Core Team}},
-  organization = {R Foundation for Statistical Computing},
-  address = {Vienna, Austria},
-  year = {2019},
-  url = {https://www.R-project.org},
-}
-
-`
+### Please cite
 @InProceedings{Jobin_2024_WACV,
     author    = {Jobin, K. V. and Mishra, Anand and Jawahar, C. V.},
     title     = {Semantic Labels-Aware Transformer Model for Searching Over a Large Collection of Lecture-Slides},
@@ -41,7 +29,7 @@ tags:
     year      = {2024},
     pages     = {6016-6025}
 }
-`
+
 
 > **Abstract:** *Massive Open Online Courses(MOOCs) enable easy access to many educational materials, particularly lecture slides, on the web. Searching through them based on user queries becomes an essential problem due to the availability of such vast information.
 To address this, we present Lecture Slide Deck Search Engine (LecDeckSearch Engine) -- a search engine that supports natural language queries and hand-drawn sketches and performs searches on a large collection of slide images on computer science topics. 
