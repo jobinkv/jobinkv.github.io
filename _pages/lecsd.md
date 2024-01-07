@@ -19,7 +19,7 @@ tags:
 
 
 ### Please cite
-```
+```bibtex
 @InProceedings{Jobin_2024_WACV,
     author    = {Jobin, K. V. and Mishra, Anand and Jawahar, C. V.},
     title     = {Semantic Labels-Aware Transformer Model for Searching Over a Large Collection of Lecture-Slides},
@@ -29,6 +29,11 @@ tags:
     pages     = {6016-6025}
 }
 ```
+
+**News and upcoming updates**
+
+- [x] **Feb-2024** Code and pre-trained checkpoints will be released.
+
 
 > **Abstract:** *Massive Open Online Courses(MOOCs) enable easy access to many educational materials, particularly lecture slides, on the web. Searching through them based on user queries becomes an essential problem due to the availability of such vast information.
 To address this, we present Lecture Slide Deck Search Engine (LecDeckSearch Engine) -- a search engine that supports natural language queries and hand-drawn sketches and performs searches on a large collection of slide images on computer science topics. 
