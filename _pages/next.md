@@ -17,6 +17,10 @@ tags:
 
 - [Bi-directional Training for Composed Image Retrieval via](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Bi-Directional_Training_for_Composed_Image_Retrieval_via_Text_Prompt_Learning_WACV_2024_paper.pdf)
 
+- [DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL
+FOR MULTIMODAL DOCUMENT UNDERSTANDING](https://arxiv.org/pdf/2401.00908.pdf)
+
+
 <details>
  <summary>Notes</summary>
 &emsp; 
