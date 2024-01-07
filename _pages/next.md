@@ -1,12 +1,7 @@
 ---
 title: 'My Next works'
-date: 2024-01-01
+date: 2024-01-07
 permalink: /next/
-bibliography: references.bib
-tags:
-  - WACV
-  - retrieval
-  - Slide images
 ---
 
 ### Interesting papers
