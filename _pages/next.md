@@ -24,7 +24,7 @@ DocLLM: A layout-aware generative language model for multimodal document underst
     1. The performance of DocLLM is evaluated on various document intelligence tasks, outperforming state-of-the-art LLMs on most datasets and generalizing well to previously unseen datasets.
 
 <details>
-<summary>DocLLM: A layout-aware generative language model for multimodal document understanding. <a href ="https://arxiv.org/pdf/2401.00908.pdf">pdf<a></summary>
+<summary>DocLLM: A layout-aware generative language model for multimodal document understanding.</summary>
 &emsp; 
 	
     1. The paper focuses on the challenges of understanding visually rich documents, such as forms, invoices, receipts, and contracts, which require the integration of textual and spatial modalities.
