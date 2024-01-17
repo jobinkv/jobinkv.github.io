@@ -23,11 +23,6 @@ DocLLM: A layout-aware generative language model for multimodal document underst
     1. The model introduces modifications to the pre-training objective to address irregular layouts and mixed data types in visual documents.
     1. The performance of DocLLM is evaluated on various document intelligence tasks, outperforming state-of-the-art LLMs on most datasets and generalizing well to previously unseen datasets.
 
-<details>
-<summary>Notes</summary>
-&emsp; 
-	
-Here is the notes
+1. [A Mathematical Framework for Transformer Circuits][pdf]
 
-&emsp; 
-</details>
+[pdf]: https://transformer-circuits.pub/2021/framework/index.html
