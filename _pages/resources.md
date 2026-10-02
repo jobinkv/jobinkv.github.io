@@ -16,6 +16,6 @@ Here is a list of publicly available datasets that were introduced in  our works
 
 ### Articles
 
-Here is the my leaching resources.
+Here is the my teaching resources.
 
 - [coding] - [LeetCode](/Resources/leetcode/)

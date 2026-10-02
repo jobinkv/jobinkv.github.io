@@ -157,22 +157,21 @@ def maxSubArray(nums: list[int]) -> int:
     <p>Given an integer array <code>nums</code>, find a subarray that has the largest product, and return the product.</p>
     <div class="section-subtitle">Explanation</div>
     <p>Since multiplying two negative numbers creates a positive number, keep track of both the maximum product and the minimum product up to the current index. When encountering a negative number, the minimum and maximum swap roles.</p>
+    <p><img src="/images/leetcodeproblem6.png" alt="Maximum Product Subarray walkthrough showing how current maximum and minimum products change at each array index" style="display: block; width: 100%; max-width: 100%; height: auto;"></p>
     <div class="section-subtitle">Python Solution</div>
     {% highlight python %}
-def maxProduct(nums: list[int]) -> int:
-    res = max(nums)
-    curMin, curMax = 1, 1
+class Solution:
+    def maxProduct(self, nums: list[int]) -> int:
+        res = nums[0]
+        curMin, curMax = 1, 1
 
-    for n in nums:
-        if n == 0:
-            curMin, curMax = 1, 1
-            continue
-        tmp = curMax * n
-        curMax = max(n * curMax, n * curMin, n)
-        curMin = min(tmp, n * curMin, n)
-        res = max(res, curMax)
+        for n in nums:
+            tmp = curMax * n
+            curMax = max(tmp, curMin * n, n)
+            curMin = min(tmp, curMin * n, n)
+            res = max(res, curMax)
 
-    return res
+        return res
     {% endhighlight %}
 </div>
 
