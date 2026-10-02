@@ -16,13 +16,42 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## To run locally on macOS
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+The local site uses Ruby 3.3 and Bundler 2.4.19, as specified by this repository's dependencies. Ruby 4 may remain installed for other tools, but use Ruby 3.3 for this site.
+
+1. Install [Homebrew](https://brew.sh/) if it is not already installed.
+1. Install Ruby 3.3:
+
+	```sh
+	brew install ruby@3.3
+	```
+
+1. Add Homebrew Ruby 3.3 to the front of your `PATH`. This command adds it to future zsh login shells and activates it in the current terminal:
+
+	```sh
+	echo 'export PATH="$(brew --prefix ruby@3.3)/bin:$(brew --prefix)/bin:$PATH"' >> ~/.zprofile
+	source ~/.zprofile
+	ruby -v
+	```
+
+	Confirm the version starts with `3.3`.
+1. Install the Bundler version recorded in `Gemfile.lock`:
+
+	```sh
+	gem install bundler -v 2.4.19
+	```
+
+1. From the repository directory, install the Ruby dependencies and start Jekyll:
+
+	```sh
+	bundle install
+	bundle exec jekyll serve --livereload
+	```
+
+1. Open <http://localhost:4000>. Jekyll rebuilds the site when files change. Press `Ctrl+C` in the terminal to stop the server.
+
+Node.js is not required to serve the site. It is only needed for the optional JavaScript build scripts. Keep `Gemfile.lock`; it pins the dependency versions used by the site.
 
 # Changelog -- bugfixes and enhancements
 
