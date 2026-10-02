@@ -189,15 +189,17 @@ class Solution:
     <p>Given the sorted rotated array <code>nums</code> of unique elements, return the minimum element of this array in \(O(\log N)\) time.</p>
     <div class="section-subtitle">Explanation</div>
     <p>Use Binary Search. Compare <code>nums[mid]</code> with <code>nums[right]</code>. If <code>nums[mid] &gt; nums[right]</code>, the minimum must lie in the right half (<code>left = mid + 1</code>). Otherwise, the minimum lies in the left half including <code>mid</code> (<code>right = mid</code>).</p>
+    <p>For all sorted array problem use binary search apprach</p>
+    <p><img src="/images/leetcodeproblem7.png" alt="find-minimum-in-rotated-sorted-array" style="display: block; width: 100%; max-width: 100%; height: auto;"></p>
     <div class="section-subtitle">Python Solution</div>
     {% highlight python %}
 def findMin(nums: list[int]) -> int:
     left, right = 0, len(nums) - 1
     while left < right:
         mid = (left + right) // 2
-        if nums[mid] > nums[right]:
+        if nums[mid] > nums[right]: # Right side is unsorted
             left = mid + 1
-        else:
+        else: # left side is unsorted
             right = mid
     return nums[left]
     {% endhighlight %}
@@ -257,6 +259,7 @@ def search(nums: list[int], target: int) -> int:
     <div class="section-subtitle">Explanation</div>
     <p>Sort the array first. Iterate through each element as the first element of the triplet. For the remaining part of the array, use the Two-Pointer approach (<code>left</code> and <code>right</code>) to find pairs that sum to <code>-nums[i]</code>. Skip duplicate values to ensure unique triplets.</p>
     <div class="section-subtitle">Python Solution</div>
+    <p><img src="/images/leetcodeproblem9.png" alt="3sum" style="display: block; width: 100%; max-width: 100%; height: auto;"></p>
     {% highlight python %}
 def threeSum(nums: list[int]) -> list[list[int]]:
     nums.sort()
