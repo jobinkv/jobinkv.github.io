@@ -1,6 +1,6 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
-{% if page.url == "/Resources/leetcode/" %}
+{% if page.url contains "/Resources/leetcode/" %}
 <script src="{{ base_path }}/assets/js/copy-code.js" defer></script>
 {% endif %}
 
