@@ -47,8 +47,8 @@ The local site uses Ruby 3.3 and Bundler 2.4.19, as specified by this repository
 	```sh
 	bundle install
 	bundle exec jekyll serve --livereload
-
-    PATH="/opt/homebrew/opt/ruby@3.3/bin:/opt/homebrew/lib/ruby/gems/3.3.0/bin:/opt/homebrew/bin:$PATH" bundle exec jekyll build --config _config.yml,_config.dev.yml
+    or 
+	PATH="/opt/homebrew/opt/ruby@3.3/bin:/opt/homebrew/lib/ruby/gems/3.3.0/bin:/opt/homebrew/bin:$PATH" bundle exec jekyll serve --config _config.yml,_config.dev.yml --host 127.0.0.1 --port 4000
 	```
 
 1. Open <http://localhost:4000>. Jekyll rebuilds the site when files change. Press `Ctrl+C` in the terminal to stop the server.
