@@ -5,6 +5,8 @@ permalink: /Resources/leetcode/array-hashing/
 author_profile: true
 ---
 
+[Back to LeetCode topics](/Resources/leetcode/)
+
 <!-- Problem 1 -->
 <div class="problem-card" id="two-sum">
     <div class="problem-header">
