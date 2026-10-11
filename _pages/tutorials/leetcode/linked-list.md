@@ -21,6 +21,7 @@ author_profile: true
     <p>Given the <code>head</code> of a singly linked list, reverse the list and return the reversed list.</p>
     <div class="section-subtitle">Explanation</div>
     <p>Iterate through the list while keeping two pointers: <code>prev</code> (the already reversed part, initially <code>None</code>) and <code>curr</code> (the current node). At each step, save <code>curr.next</code>, point <code>curr.next</code> back to <code>prev</code>, then advance both pointers. When <code>curr</code> becomes <code>None</code>, <code>prev</code> is the new head. This is preferred over recursion because it uses constant space and avoids stack overflow on long lists.</p>
+    <p><img src="/images/leetcodeproblem21.png" alt="Reverse Linked List" style="display: block; width: 100%; max-width: 100%; height: auto;"></p>
     <div class="section-subtitle">Python Solution</div>
     {% highlight python %}
 # Definition for singly-linked list.
