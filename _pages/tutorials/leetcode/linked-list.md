@@ -326,3 +326,4 @@ def reverseKGroup(head: Optional[ListNode], k: int) -> Optional[ListNode]:
     return dummy.next
     {% endhighlight %}
 </div>
+<p> <img src="/images/reverse-nodes-in-k-group.png" alt="Reverse Linked List" style="display: block; width: 100%; max-width: 100%; height: auto;"></p>
