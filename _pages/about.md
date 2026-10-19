@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [IIIT Hyderabad](https://iiit.ac.in) where my research primarily revolves around developing computer vision algorithms for document layout understanding. My work in this field involves designing innovative solutions and applications that leverage these algorithms to enhance various document analysis and processing aspects. 
-Prior to my doctoral journey, I successfully obtained my master's degree from the esteemed [College of Engineering Trivandrum](https://cet.ac.in), where my focus was on the intriguing domain of signal processing. 
+
+PhD researcher and AI/ML Engineer with expertise in vision-language architectures, multimodal document
+comprehension, and agentic systems. Proven track record of publishing award-winning research at top-tier
+conferences (WACV, CVIP, ICDAR) and translating foundational research into enterprise-grade AI solutions.
+Specialized in deep learning, transformer-based search, semantic layout analysis, and autonomous agent
+orchestration.
 
 ### <span style="color:red">News /Updates </span>
 - [January 2024] -  Joined as AI/ML Engineer in [Bourntech Solution Inc](https://bourntec.com)
