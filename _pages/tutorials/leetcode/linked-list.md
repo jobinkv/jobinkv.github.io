@@ -189,7 +189,9 @@ def hasCycle(head: Optional[ListNode]) -> bool:
     <div class="section-subtitle">Problem Statement</div>
     <p>You are given an array of <code>k</code> linked lists <code>lists</code>, each sorted in ascending order. Merge all the linked lists into one sorted linked list and return it.</p>
     <div class="section-subtitle">Explanation</div>
-    <p>Use a Min-Heap holding the current head of each list. Repeatedly pop the smallest node, append it to the result, and push that node's <code>next</code> into the heap. The heap never holds more than <code>k</code> nodes, so each of the \(N\) total nodes costs \(O(\log k)\). Since <code>ListNode</code> objects are not comparable, store tuples <code>(value, list_index, node)</code> so ties are broken by the unique index. An equivalent alternative is divide and conquer, merging lists pairwise with the Problem 22 routine, which also runs in \(O(N \log k)\).</p>
+    <p>Use a Min-Heap holding the current head of each list. Repeatedly pop the smallest node, append it to the result, and push that node's <code>next</code> into the heap. The heap never holds more than <code>k</code> nodes, so each of the \(N\) total nodes costs \(O(\log k)\). Since <code>ListNode</code> objects are not comparable, store tuples <code>(value, list_index, node)</code> so ties are broken by the unique index. An equivalent alternative is divide and conquer, merging lists pairwise with the Problem 22 routine, which also runs in \(O(N \log k)\).
+    <a href="/Resources/leetcode/linked-list/mergeklist">
+    </p>
     <div class="section-subtitle">Python Solution</div>
     {% highlight python %}
 import heapq
