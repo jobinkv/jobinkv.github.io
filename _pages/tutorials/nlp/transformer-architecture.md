@@ -5,7 +5,7 @@ permalink: /Resources/nlp/transformer-architecture/
 author_profile: true
 ---
 
-[Back to Resources](/Resources/)
+[Back to NLP Index](/Resources/nlp/)
 
 <!-- Overview -->
 <div class="problem-card" id="transformer-overview">

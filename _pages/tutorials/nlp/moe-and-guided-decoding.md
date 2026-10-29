@@ -5,7 +5,7 @@ permalink: /Resources/nlp/moe-and-guided-decoding/
 author_profile: true
 ---
 
-[Back to Resources](/Resources/)
+[Back to NLP Index](/Resources/nlp/)
 
 <!-- Overview -->
 <div class="problem-card" id="moe-guided-overview">

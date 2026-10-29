@@ -5,7 +5,7 @@ permalink: /Resources/nlp/tokenization-summary/
 author_profile: true
 ---
 
-[Back to Resources](/Resources/)
+[Back to NLP Index](/Resources/nlp/)
 
 <!-- Overview -->
 <div class="problem-card" id="tokenization-summary">

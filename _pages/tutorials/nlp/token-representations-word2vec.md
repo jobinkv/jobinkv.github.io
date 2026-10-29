@@ -5,7 +5,7 @@ permalink: /Resources/nlp/token-representations-word2vec/
 author_profile: true
 ---
 
-[Back to Resources](/Resources/)
+[Back to NLP Index](/Resources/nlp/)
 
 <!-- Overview -->
 <div class="problem-card" id="token-representations-overview">
