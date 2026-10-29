@@ -20,3 +20,4 @@ Here is the my teaching resources.
 
 - [LeetCode](/Resources/leetcode/)
 - [Deep Leaning](/Resources/deep-learning)
+- [Natural Language Processing](/Resources/nlp/)

@@ -12,3 +12,4 @@ author_profile: true
 - [Transformer Architecture](/Resources/nlp/transformer-architecture/)
 - [Rotary Position Embedding (RoPE)](/Resources/nlp/rotary-position-embedding/)
 - [Mixture of Experts and Guided Decoding](/Resources/nlp/moe-and-guided-decoding/)
+- [Latent Attention (MLA)](/Resources/nlp/latent-attention/)
